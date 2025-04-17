@@ -4,7 +4,7 @@
       "enabled": true,
       "reason": "",
       "fixedIn": "0.0.0",
-      "note" : ""
+      "note": ""
     },
     "attendance": {
       "enabled": true,
@@ -12,19 +12,19 @@
       "fixedIn": "0.0.0",
       "note": ""
     },
- "coursepage": {
+    "coursepage": {
       "enabled": true,
       "reason": "",
       "fixedIn": "0.0.0",
       "note": ""
     },
-     "marks": {
+    "marks": {
       "enabled": true,
       "reason": "",
       "fixedIn": "0.0.0",
       "note": ""
     },
- "examshedule": {
+    "examshedule": {
       "enabled": true,
       "reason": "",
       "fixedIn": "0.0.0",
