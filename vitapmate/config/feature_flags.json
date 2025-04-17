@@ -13,9 +13,9 @@
       "note": ""
     },
     "coursepage": {
-      "enabled": true,
-      "reason": "",
-      "fixedIn": "0.0.0",
+      "enabled": false,
+      "reason": "vtop changed",
+      "fixedIn": "0.0.1",
       "note": ""
     },
     "marks": {
