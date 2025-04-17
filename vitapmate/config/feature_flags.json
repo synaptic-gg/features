@@ -1,15 +1,34 @@
 {
-  "version": "1.0.0",
   "features": {
-    "enableChat": {
-      "enabled": false,
-      "reason": "",
-      "fixedIn": "v2.5.0"
-    },
-    "newHomePage": {
+    "timetable": {
       "enabled": true,
       "reason": "",
-      "fixedIn": ""
+      "fixedIn": "0.0.0",
+      "note" : ""
+    },
+    "attendance": {
+      "enabled": true,
+      "reason": "",
+      "fixedIn": "0.0.0",
+      "note": ""
+    },
+ "coursepage": {
+      "enabled": true,
+      "reason": "",
+      "fixedIn": "0.0.0",
+      "note": ""
+    },
+     "marks": {
+      "enabled": true,
+      "reason": "",
+      "fixedIn": "0.0.0",
+      "note": ""
+    },
+ "examshedule": {
+      "enabled": true,
+      "reason": "",
+      "fixedIn": "0.0.0",
+      "note": ""
     }
   }
 }
