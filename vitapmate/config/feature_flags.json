@@ -9,25 +9,25 @@
     "attendance": {
       "enabled": true,
       "reason": "",
-      "fixedIn": 0,
+      "fixedIn": 1,
       "note": ""
     },
     "coursepage": {
       "enabled": true,
       "reason": "",
-      "fixedIn": 0,
+      "fixedIn": 2,
       "note": ""
     },
     "marks": {
       "enabled": true,
       "reason": "",
-      "fixedIn": 0,
+      "fixedIn": 2,
       "note": ""
     },
     "examschedule": {
       "enabled": true,
       "reason": "",
-      "fixedIn": 0,
+      "fixedIn": 2,
       "note": ""
     }
   }
