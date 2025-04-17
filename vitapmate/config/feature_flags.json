@@ -3,31 +3,31 @@
     "timetable": {
       "enabled": true,
       "reason": "",
-      "fixedIn": "0.0.0",
+      "fixedIn": 0,
       "note": ""
     },
     "attendance": {
       "enabled": true,
       "reason": "",
-      "fixedIn": "0.0.0",
+      "fixedIn": 0,
       "note": ""
     },
     "coursepage": {
       "enabled": true,
       "reason": "",
-      "fixedIn": "0.0.0",
+      "fixedIn": 0,
       "note": ""
     },
     "marks": {
       "enabled": true,
       "reason": "",
-      "fixedIn": "0.0.0",
+      "fixedIn": 0,
       "note": ""
     },
     "examschedule": {
       "enabled": true,
       "reason": "",
-      "fixedIn": "0.0.0",
+      "fixedIn": 0,
       "note": ""
     }
   }
