@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "features": {
+    "enableChat": {
+      "enabled": false,
+      "reason": "",
+      "fixedIn": "v2.5.0"
+    },
+    "newHomePage": {
+      "enabled": true,
+      "reason": "",
+      "fixedIn": ""
+    }
+  }
+}
